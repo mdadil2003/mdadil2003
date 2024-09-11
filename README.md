@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Adil Raza</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">A passionate Computer Science Engineer from Jamia Hamdard University</h3>
 
 <img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
