@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-adil-raza-094909254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-adil-raza-094909254" height="30" width="40" /></a>
-<a href="https://twitter.com/siddiqueiaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddiqueiaadil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adilsiddiqei30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adilsiddiqei30" height="30" width="40" /></a>
+<a href="https://twitter.com/siddiqueiaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddiqueiaadil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adilsiddiquei30" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adilsiddiqei30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
