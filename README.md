@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdadil2003&label=Profile%20views&color=0e75b6&style=flat" alt="mdadil2003" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Python Development**
 
 - 📫 How to reach me **adilsiddiqei30@gmail.com**
 
