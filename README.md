@@ -1,25 +1,96 @@
-<h1 align="center">Hey 👋, I'm Md Adil Raza</h1>
-<h3 align="center">A passionate Computer Science Engineer from Jamia Hamdard University</h3>
+<h1 align="center">👋 Hey, I'm Md Adil Raza</h1>
+<h3 align="center">🚀 Computer Science Engineer | Aspiring Data Analyst & AI Enthusiast</h3>
+<h4 align="center">Final Year B.Tech CSE @ Jamia Hamdard University</h4>
 
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdadil2003&label=Profile%20views&color=0e75b6&style=flat" alt="mdadil2003" /> </p>
-
-- 🌱 I’m currently learning **Python Development**
-
-- 📫 How to reach me **adilraza.cse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-adil-raza-094909254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-adil-raza-094909254" height="30" width="40" /></a>
-<a href="https://twitter.com/adilraza_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilraza_06" height="30" width="40" /></a> <a href="https://www.codechef.com/users/adilsiddiqei30" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8b6fc5d3-e628-40f9-9a31-fd48301ced88" alt="adilsiddiqei30" height="30" width="40" /></a> <a href="https://www.leetcode.com/adilsiddiquei30" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="adilsiddiqei30" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mdadil2003&label=Profile%20views&color=0e75b6&style=flat" alt="mdadil2003" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.vscode.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a> <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadil2003&show_icons=true&locale=en&layout=compact" alt="mdadil2003" /></p>
+### 💡 About Me
+I’m a **Computer Science Engineer** passionate about **Python, Data Analytics, and AI**.  
+I love transforming data into meaningful insights and solving real-world problems through technology.  
+Currently, I’m focused on mastering **Data Analysis, Visualization, and Machine Learning**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdadil2003&show_icons=true&locale=en" alt="mdadil2003" /></p>
+- 🌱 Currently learning: **NumPy, Pandas, Matplotlib, Seaborn**  
+- 📊 Exploring: **Power BI, Tableau, Excel (Microsoft 365)** for business insights  
+- 🤖 Interested in: **Machine Learning, ChatGPT API, GitHub Copilot**  
+- 🎯 Goal: Build data-driven applications that create real impact  
+- 📫 Reach me: **[adilraza.cse@gmail.com](mailto:adilraza.cse@gmail.com)**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdadil2003&" alt="mdadil2003" /></p>
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/md-adil-raza-094909254" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/adilraza_06" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="30" alt="Twitter"/></a>
+  <a href="https://www.hackerrank.com/profile/adilsiddiqei30" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="30" alt="HackerRank"/></a>
+  <a href="https://unstop.com/u/mdraz4595" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" height="30" width="30" alt="Unstop"/></a>
+  <a href="https://www.leetcode.com/adilsiddiquei30" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height="30" width="30" alt="LeetCode"/></a>
+</p>
+
+---
+
+### 🧠 Languages, Tools & Libraries
+
+#### 💻 **Programming Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+</p>
+
+---
+
+#### 📊 **Data Analytics, BI & AI Libraries**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" />
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fydrrdbbx40u42fduzpgm.png" height="35" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="Scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="35" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter Notebook" />
+</p>
+
+---
+
+#### 🧮 **Business Intelligence & Data Tools**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="33" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014" height="33" alt="Excel" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="33" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="MySQL" />
+</p>
+
+---
+
+#### ⚙️ **Developer & Productivity Tools**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="33" alt="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="33" alt="ChatGPT" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3cb8e886-e037-4aff-b0ab-c377415089e1.png" height="33" alt="GitHub Copilot" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadil2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdadil2003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdadil2003&theme=tokyonight" alt="GitHub Streak" /></p>
+
+---
+
+### ⚡ About My Journey
+> “I’m continuously learning, building, and exploring how Python, Data, and AI can create real-world solutions and meaningful impact.”
