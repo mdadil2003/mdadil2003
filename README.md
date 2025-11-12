@@ -2,15 +2,18 @@
 <h3 align="center">🚀 Computer Science Engineer | Aspiring Data Analyst & AI Enthusiast</h3>
 <h4 align="center">Final Year B.Tech CSE @ Jamia Hamdard University</h4>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdadil2003&label=Profile%20views&color=0e75b6&style=flat" alt="mdadil2003" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdadil2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ### 💡 About Me
+
 I’m a **Computer Science Engineer** passionate about **Python, Data Analytics, and AI**.  
 I love transforming data into meaningful insights and solving real-world problems through technology.  
 Currently, I’m focused on mastering **Data Analysis, Visualization, and Machine Learning**.
@@ -20,6 +23,14 @@ Currently, I’m focused on mastering **Data Analysis, Visualization, and Machin
 - 🤖 Interested in: **Machine Learning, ChatGPT API, GitHub Copilot**  
 - 🎯 Goal: Build data-driven applications that create real impact  
 - 📫 Reach me: **[adilraza.cse@gmail.com](mailto:adilraza.cse@gmail.com)**  
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="280"/>
+</td>
+</tr>
+</table>
 
 ---
 
