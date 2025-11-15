@@ -67,6 +67,7 @@ Currently, I’m focused on mastering **Data Analysis, Visualization, and Machin
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" alt="Seaborn" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="Scikit-learn" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="35" alt="PyTorch" />
+  <img src="https://miro.medium.com/1*wEAtpMCNxjcW_9VZyGafdg.png" height="35" alt="Tkinter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter Notebook" />
 </p>
 
@@ -78,6 +79,7 @@ Currently, I’m focused on mastering **Data Analysis, Visualization, and Machin
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014" height="33" alt="Excel" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="33" alt="Tableau" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="MySQL" />
+  <img src="https://sqlite.org/images/sqlite370_banner.svg" height="33" alt="sqlite" />
 </p>
 
 ---
