@@ -40,7 +40,7 @@ Currently, I’m focused on mastering **Data Analysis, Visualization, and Machin
   <a href="https://twitter.com/adilraza_06" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="30" alt="Twitter"/></a>
   <a href="https://www.hackerrank.com/profile/adilsiddiqei30" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="30" alt="HackerRank"/></a>
   <a href="https://unstop.com/u/mdraz4595" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" height="30" width="30" alt="Unstop"/></a>
-  <a href="https://www.leetcode.com/u/adilsiddiquei30/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height="30" width="30" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/adilsiddiqei30/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height="30" width="30" alt="LeetCode"/></a>
 </p>
 
 ---
