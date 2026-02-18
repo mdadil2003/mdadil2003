@@ -99,13 +99,12 @@ Currently, I’m focused on mastering **Data Analysis, Visualization, and Machin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadil2003&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=86400" height="160" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdadil2003&theme=tokyonight&cache_seconds=86400" 
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdadil2003&theme=tokyonight&cache_seconds=86400" height="160" />
-</p>
-
 
 ---
 
