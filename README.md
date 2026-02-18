@@ -97,11 +97,15 @@ Currently, I’m focused on mastering **Data Analysis, Visualization, and Machin
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadil2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdadil2003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdadil2003&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=86400" height="160" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdadil2003&theme=tokyonight" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdadil2003&theme=tokyonight&cache_seconds=86400" height="160" />
+</p>
+
 
 ---
 
